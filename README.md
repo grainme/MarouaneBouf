@@ -1,25 +1,36 @@
-<h1 align="center">Good to see you 👋, I am Marouane</h1>
-<h3 align="center">I learn new things everyday :)</h3>
+<h1 align="left">GOOOD TO SEE YOU HERE 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/grainmee" target="blank"><img src="https://img.shields.io/twitter/follow/grainmee?logo=twitter&style=for-the-badge" alt="grainmee" /></a> </p>
+<img align="right" src="https://user-images.githubusercontent.com/104838272/174084147-0b3c51ff-8e24-4d3c-95ba-f83c32279526.gif" alt="header" width="30%" />
 
-- 👨‍💻 All of my links are available at [https://linktr.ee/Grainme47](https://linktr.ee/Grainme47)
 
-- 📫 How to reach me **boufaroujmarouan@gmail.com**
+## ☢️Social Media
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Grainme47) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Grainme#9151) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/goodmanmarouane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grainme47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marouaneboufarouj) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Grainme) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25221862) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Grainmee) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Grainme47) ![GitHub followers](https://img.shields.io/github/followers/MarouaneBouf?label=Follow&style=social)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/grainmee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grainmee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marouane-boufarouj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marouane-boufarouj" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/grainme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="grainme" height="30" width="40" /></a>
-<a href="https://instagram.com/grainme47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grainme47" height="30" width="40" /></a>
-<a href="https://www.behance.net/grainme47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="grainme47" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/grainme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="grainme" height="30" width="40" /></a>
-<a href="https://discord.gg/Grainme#9151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Grainme#9151" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🤟About Me :
+- 🌱 I’m currently studying at ENSAKH
+- 👨‍💻 I'm Learning PYTHON and JAVASCRIPT
+- 😄 Pronouns: he/Him
+- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 👽  I'm a Chess player + Photographer + Graphic Designer
+- ✍ You can find my links [here]
+- ✉️ Let's chat: boufaroujmarouan@gmail.com
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Grainme"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Grainme" /></a></p><br><br>
+## 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+## 📊GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MarouaneBouf&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MarouaneBouf&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarouaneBouf&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+  ## 💰Donation Section:
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Grainme) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Goodman47) 
+  
+  
+  </details>
+
+[here]: https://linktr.ee/Grainme47
+  

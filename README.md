@@ -11,8 +11,8 @@
 - 🌱 I’m currently studying at ENSAKH
 - 👨‍💻 I'm Learning PYTHON and JAVASCRIPT
 - 😄 Pronouns: he/Him
-- ⚡ Fun fact: I speak 3 languages ( English, French, Arabic)
-- 👽  I'm a Chess player + Photographer + Graphic Designer
+- ⚡ I speak 3 languages ( English, French, Arabic)
+- 👽 I'm a Chess player + Photographer + Graphic Designer
 - ✍ You can find my links [here]
 - ✉️ Let's chat: boufaroujmarouan@gmail.com
 

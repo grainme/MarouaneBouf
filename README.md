@@ -8,7 +8,7 @@
 
 ## 🤟About Me :
 - 🌱 I’m currently studying at ENSAKH
-- 👨‍💻 I'm Learning PYTHON and JAVASCRIPT
+- 👨‍💻 I'm Learning PYTHON with Harvard/CS50
 - 😄 Pronouns: he/Him
 - ⚡ I speak 3 languages ( English, French, Arabic)
 - 👽 I'm a Chess player + Photographer + Graphic Designer

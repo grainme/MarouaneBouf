@@ -1,6 +1,6 @@
 <h1 align="left">GOOOD TO SEE YOU HERE 👋</h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/104838272/174084147-0b3c51ff-8e24-4d3c-95ba-f83c32279526.gif" alt="header" width="30%" />
+<img align="right" src="https://user-images.githubusercontent.com/104838272/174084147-0b3c51ff-8e24-4d3c-95ba-f83c32279526.gif" alt="header" width="50%" />
 
 
 ## ☢️Social Media

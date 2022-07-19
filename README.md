@@ -1,6 +1,9 @@
 <h1 align="left">GOOOD TO SEE YOU HERE 👋</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=F7F7F7&lines=Hello+everyone%2C+I+am+Marouane+Boufarouj;+%E7%A7%81%E3%81%AF%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%81%8C%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99)](https://git.io/typing-svg)
 
+<img align="right" src="https://user-images.githubusercontent.com/104838272/174084147-0b3c51ff-8e24-4d3c-95ba-f83c32279526.gif" alt="header" width="50%" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=F4F77BFF&lines=Hello+everyone%2C+I+am+MAROUANE+BOUFAROUJ;+%E7%A7%81%E3%81%AF%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%81%8C%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99">
+</p>
 
 
 ## ☢️Social media

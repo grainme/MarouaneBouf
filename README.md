@@ -43,7 +43,7 @@
 
 ## 📊GitHub stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarouaneBouf&theme=dark&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarouaneBouf&layout=compact)](https://github.com/MarouaneBouf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarouaneBouf&layout=compact&theme=dark&hide_border=true)](https://github.com/MarouaneBouf/github-readme-stats)
 
 ### ✍️Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

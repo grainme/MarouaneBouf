@@ -11,7 +11,7 @@
 
 ## 🤟About me :
 - 🌱 I’m currently studying at ENSAKH
-- 👨‍💻 I'm studying CS50P [COMPLETED]
+- 👨‍💻 I'm studying CS50x 
 - 😄 Pronouns: he/Him
 - ⚡ I speak 3 languages ( English, French, Arabic)
 - 👽 I'm a Chess player + Photographer + Graphic Designer

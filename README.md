@@ -27,6 +27,9 @@
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 <img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40">
  </a>
+ <a href="https://www.ruby-lang.org/en/">
+<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="40">
+  </a>
  <a href="https://git-scm.com/">
 <img alt="Marouane" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
   </a>
@@ -36,6 +39,14 @@
   <a href="https://www.adobe.com/creativecloud.html">
 <img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Creative_Cloud.svg" width="50">
   </a>
+<a href="https://www.codingame.com/profile/9799d01606ec741adaf4a7b6297bbfdb5509884">
+<img alt="Marouane" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="40">
+  </a>
+<a href="https://www.codewars.com/users/Py47">
+<img alt="Marouane" src="https://docs.codewars.com/logo.svg" width="40">
+  </a>
+
+  
   
 </p>
 

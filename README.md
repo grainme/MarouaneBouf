@@ -1,8 +1,8 @@
-<h2 align="left">I'm Marouane Boufarouj.</h2>
+<img align="right" src="https://user-images.githubusercontent.com/104838272/189169333-46d9131b-98c6-4d3c-b33f-8cefc09da0bd.jpg" alt="header" width="100%" />
+<p align="center">
+</p>
 
-<img align="right" src="https://user-images.githubusercontent.com/104838272/174084147-0b3c51ff-8e24-4d3c-95ba-f83c32279526.gif" alt="header" width="30%" />
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=500&lines=Salam+Alaykum+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=500&lines=Salam+Alaykum+%3A)" alt="Typing SVG" /></a>
 </p>
 
 

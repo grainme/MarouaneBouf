@@ -45,7 +45,9 @@
 <a href="https://www.codewars.com/users/Py47">
 <img alt="Marouane" src="https://docs.codewars.com/logo.svg" width="40">
   </a>
-
+<a href="https://www.hackerrank.com/Grainme47">
+<img alt="Marouane" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png" width="40">
+  </a>
   
   
 </p>

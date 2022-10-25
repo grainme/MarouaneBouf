@@ -17,14 +17,17 @@
 ## 
 ## **💻Tech stuff:**
 <p float="left">
+ <a href="https://cplusplus.com/reference/">
+<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" width="40">
+  </a>
  <a href="https://en.wikipedia.org/wiki/Python">
 <img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40">
   </a>
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 <img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40">
  </a>
- <a href="https://www.ruby-lang.org/en/">
-<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="40">
+ <a href="https://www.gnu.org/software/bash/">
+<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50">
   </a>
  <a href="https://git-scm.com/">
 <img alt="Marouane" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">

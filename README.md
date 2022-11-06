@@ -7,7 +7,7 @@
 
 ## 🤟I am/do :
 - 🌱 I’m currently studying at ENSAKH
-- 👨‍💻 Learning DSA / ALGO
+- 👨‍💻 Learning DSA + ALGO
 - 😄 Pronouns: he/Him
 - ⚡ I speak 3 languages ( English, French, Arabic)
 - 👽 I'm a Chess player + Photographer + Graphic Designer

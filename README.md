@@ -13,8 +13,6 @@
 - 👽 I'm a Chess player + Photographer + Graphic Designer
 - ✍ You can find my links [here]
 - ✉️ Let's chat: boufaroujmarouan@gmail.com
-
-## 
 ## **💻Tech stuff:**
 <p float="left">
  <a href="https://cplusplus.com/reference/">
@@ -47,22 +45,3 @@
 <a href="https://www.hackerrank.com/Grainme47">
 <img alt="Marouane" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png" width="40">
   </a>
-  
-  
-</p>
-
-## 
-
-## 📊GitHub stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarouaneBouf&theme=dark&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarouaneBouf&theme=dark&hide_border=true)](https://github.com/MarouaneBouf/github-readme-stats)
-
-### ✍️Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-  
-  
-  </details>
-
-[here]: https://linktr.ee/Grainme47
-  

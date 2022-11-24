@@ -9,9 +9,7 @@
 - 🌱 I’m currently studying at ENSAKH
 - 👨‍💻 Learning DSA + ALGO
 - 😄 Pronouns: he/Him
-- ⚡ I speak 3 languages ( English, French, Arabic)
 - 👽 I'm a Chess player + Photographer + Graphic Designer
-- ✍ You can find my links [here]
 - ✉️ Let's chat: boufaroujmarouan@gmail.com
 ## **💻Tech stuff:**
 <p float="left">

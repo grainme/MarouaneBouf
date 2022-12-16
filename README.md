@@ -1,8 +1,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/104838272/189169333-46d9131b-98c6-4d3c-b33f-8cefc09da0bd.jpg" alt="header" width="100%" />
 <p align="center">
 </p>
-
+<div align="center" width="50">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=500&lines=Salam+Alaykum+%3A)" alt="Typing SVG" /></a>
+</div>
 </p>
 
 ## 🤟I am/do :
@@ -11,29 +12,11 @@
 - 😄 Pronouns: he/Him
 - 👽 I'm a Chess player + Photographer + Graphic Designer
 - ✉️ Let's chat: boufaroujmarouan@gmail.com
-## **💻Tech stuff:**
+
+
+## **💻Programming Acc:**
 <p float="left">
- <a href="https://cplusplus.com/reference/">
-<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/Python">
-<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40">
- </a>
- <a href="https://www.gnu.org/software/bash/">
-<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50">
-  </a>
- <a href="https://git-scm.com/">
-<img alt="Marouane" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
- <a href="https://code.visualstudio.com/">
-<img alt="Marouane" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
-  <a href="https://www.adobe.com/creativecloud.html">
-<img alt="Marouane" src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Creative_Cloud.svg" width="50">
-  </a>
+
 <a href="https://www.codingame.com/profile/9799d01606ec741adaf4a7b6297bbfdb5509884">
 <img alt="Marouane" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="40">
   </a>
@@ -43,3 +26,9 @@
 <a href="https://www.hackerrank.com/Grainme47">
 <img alt="Marouane" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png" width="40">
   </a>
+<hr>
+<div align="center">
+Please feel free to clone my projects, raise issues and submit PRs if you think something could be better. <br>
+<i>Happy Coding!</i> 😊
+
+</div>

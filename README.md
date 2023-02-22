@@ -10,7 +10,7 @@
 - 🌱 I’m currently studying at ENSAKH
 - 👨‍💻 Learning DSA + ALGO
 - 😄 Pronouns: he/Him
-- 👽 I'm a Chess player + Photographer + Graphic Designer
+- 👽 I'm a Chess player + Competitive Programmer + Photographer + Graphic Designer
 - ✉️ Let's chat: boufaroujmarouan@gmail.com
 
 

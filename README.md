@@ -27,6 +27,7 @@
 <img alt="Marouane" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png" width="40">
   </a>
 <hr>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarouaneBouf)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 Please feel free to clone my projects, raise issues and submit PRs if you think something could be better. <br>
 <i>Happy Coding!</i> 😊

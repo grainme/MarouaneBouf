@@ -13,7 +13,6 @@
 
 # Languages & Tech
 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://gcc.gnu.org/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://clang.llvm.org/cxx_status.html)
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://docs.microsoft.com/en-us/dotnet/csharp/)

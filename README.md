@@ -1,6 +1,5 @@
 
 <img align="right" style="margin-bottom:2rem" src="https://user-images.githubusercontent.com/104838272/189169333-46d9131b-98c6-4d3c-b33f-8cefc09da0bd.jpg" alt="header" width="100%" />
-<p align="center">
 
 
 ## 🤟 I am/do :
@@ -15,11 +14,11 @@
 
 # Languages & Tech
 
-[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
-[![C](https://skillicons.dev/icons?i=c&theme=light)](https://gcc.gnu.org/)
-[![C++](https://skillicons.dev/icons?i=cpp&theme=light)](https://clang.llvm.org/cxx_status.html)
-[![Ruby](https://skillicons.dev/icons?i=ruby&theme=light)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)](https://developer.mozilla.org/en/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://gcc.gnu.org/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://clang.llvm.org/cxx_status.html)
+[![Ruby](https://skillicons.dev/icons?i=ruby)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [![PHP](https://skillicons.dev/icons?i=php&theme=light)](https://www.php.net/)
 [![Bash](https://skillicons.dev/icons?i=bash&theme=light)](https://www.gnu.org/software/bash/)
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
@@ -37,24 +36,24 @@
 [![laravel](https://skillicons.dev/icons?i=laravel&theme=light)](https://www.python.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
 [![Python](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
-[![sqlite](https://skillicons.dev/icons?i=sqlite&theme=light)](https://www.mysql.com/)
+[![sqlite](https://skillicons.dev/icons?i=sqlite)](https://www.mysql.com/)
 
 ## Deployement env
-[![vercel](https://skillicons.dev/icons?i=vercel&theme=light)](https://www.vercel.com/)
+[![vercel](https://skillicons.dev/icons?i=vercel)](https://www.vercel.com/)
 
 
 
 
 ## Design
-[![Blender](https://skillicons.dev/icons?i=blender&theme=light)](https://www.blender.org/)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 
 
 ## Env
-[![GNU/Linux (Tux!)](https://skillicons.dev/icons?i=linux&theme=light)](https://www.gnu.org/gnu/linux-and-gnu.html)
-[![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
-[![Vim](https://skillicons.dev/icons?i=vim&theme=light)](https://www.vim.org/)
-[![Git](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/)
+[![GNU/Linux (Tux!)](https://skillicons.dev/icons?i=linux)](https://www.gnu.org/gnu/linux-and-gnu.html)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 
 ## Competitve Programming
@@ -70,7 +69,7 @@
 
 
 ## Other
-[![Regex](https://skillicons.dev/icons?i=regex&theme=light)](https://regexr.com/)
+[![Regex](https://skillicons.dev/icons?i=regex)](https://regexr.com/)
 
 
 <div align="center">

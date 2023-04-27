@@ -36,12 +36,6 @@
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![sqlite](https://skillicons.dev/icons?i=sqlite)](https://www.mysql.com/)
 
-## Deployement env
-[![vercel](https://skillicons.dev/icons?i=vercel)](https://www.vercel.com/)
-
-
-
-
 ## Design
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 
@@ -52,6 +46,7 @@
 [![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![vercel](https://skillicons.dev/icons?i=vercel)](https://www.vercel.com/)
 
 
 ## Competitve Programming

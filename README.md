@@ -1,5 +1,6 @@
+![Pixilart - Live on](https://user-images.githubusercontent.com/104838272/235182327-3cb48692-a522-4a67-9c4a-94a53b65d8e4.gif)
 
-<img align="right" style="margin-bottom:2rem" src="https://user-images.githubusercontent.com/104838272/189169333-46d9131b-98c6-4d3c-b33f-8cefc09da0bd.jpg" alt="header" width="100%" />
+
 
 👋 Hi, I’m <b style="font-weight: 700">MAROUANE BOUFAROUJ</b> or you might know me as Grainme!
 - 🔭 I’m interested in many topics. I'm very interesred in everything related to technology!

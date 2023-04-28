@@ -28,7 +28,6 @@
 [![laravel](https://skillicons.dev/icons?i=laravel)](https://www.python.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![sqlite](https://skillicons.dev/icons?i=sqlite)](https://www.mysql.com/)
 </section>
 
 ## Design

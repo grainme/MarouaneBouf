@@ -1,6 +1,3 @@
-![Pixilart - Live on](https://user-images.githubusercontent.com/104838272/235182327-3cb48692-a522-4a67-9c4a-94a53b65d8e4.gif)
-
-
 
 👋 Hi, I’m <b style="font-weight: 700">MAROUANE BOUFAROUJ</b> or you might know me as Grainme!
 - 🔭 I’m interested in many topics. I'm very interesred in everything related to technology!

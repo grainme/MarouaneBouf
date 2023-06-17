@@ -3,46 +3,12 @@
 👋 Hi, I’m <b style="font-weight: 700">MAROUANE BOUFAROUJ</b> also known as Grainme!
 - 🔭 I’m interested in many topics. I'm very interesred in everything related to technology!
 - 🌱 I’m currently studying at ENSAKH
-- 👨‍💻 Learning DSA + ALGO
+- 👨‍💻 Trying to be a better Competitive Programmer!
 - 😄 Pronouns: he/Him
-- 👽 I'm a Chess player + Competitive Programmer + Photographer + Graphic Designer
+- 👽 I Know C/C++, Php, Java, Js, Python, Bash, Html/Css Mysql, Laravel..
 - ✉️ Let's chat: boufaroujmarouan@gmail.com
-- CodingGame : <a href="https://www.codingame.com/profile/9799d01606ec741adaf4a7b6297bbfdb5509884">@Marouane47</a>
-
-
-# Languages & Tech
-
-[![C](https://skillicons.dev/icons?i=c)](https://gcc.gnu.org/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://clang.llvm.org/cxx_status.html)
-[![Ruby](https://skillicons.dev/icons?i=ruby)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en/docs/Web/JavaScript)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-[![jquery](https://skillicons.dev/icons?i=jquery)]()
-[![laravel](https://skillicons.dev/icons?i=laravel)](https://www.python.org/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-</section>
-
-## Design
-[![photoshop](https://skillicons.dev/icons?i=photoshop)](https://www.adobe.com/)
-[![illustrator](https://skillicons.dev/icons?i=illustrator)](https://www.adobe.com/)
-[![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
-
-
-## Env
-[![GNU/Linux (Tux!)](https://skillicons.dev/icons?i=linux)](https://www.gnu.org/gnu/linux-and-gnu.html)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![vercel](https://skillicons.dev/icons?i=vercel)](https://www.vercel.com/)
-
+- 🌐 Dev Tools : Wsl, Nvim, Vscode, Sublime, Eclipse..
+- CodeWars : <a href="https://www.codewars.com/users/Py47">@Py47</a>
 
 <hr>
 <div align="center">

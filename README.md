@@ -1,7 +1,7 @@
 ![git](https://github.com/MarouaneBouf/MarouaneBouf/assets/104838272/cf828b3c-a61c-4784-a418-3fc8c8a88d0e)
 
 👋 Hi, I’m <b style="font-weight: 700">MAROUANE BOUFAROUJ</b> also known as Grainme!
-- 🔭 I’m interested in many topics. I'm very interesred in everything related to technology!
+- 🔭 I’m interested in many topics. In fact, I'm very interesred in everything related to Computers!
 - 🌱 I’m currently studying at ENSAKH
 - 👨‍💻 Trying to be a better Competitive Programmer!
 - 😄 Pronouns: he/Him

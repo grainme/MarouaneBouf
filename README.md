@@ -5,7 +5,6 @@
 - 🌱 I’m currently studying at ENSAKH
 - 👨‍💻 Trying to be a better Competitive Programmer!
 - 😄 Pronouns: he/Him
-- 👽 I Know C/C++, Php, Java, Js, Python, Bash, Html/Css Mysql, Laravel..
 - ✉️ Let's chat: boufaroujmarouan@gmail.com
 - 🌐 Dev Tools : Wsl, Nvim, Vscode, Sublime, Eclipse..
 - CodeWars : <a href="https://www.codewars.com/users/Py47">@Py47</a>

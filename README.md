@@ -1,15 +1,53 @@
-![git](https://github.com/MarouaneBouf/MarouaneBouf/assets/104838272/cf828b3c-a61c-4784-a418-3fc8c8a88d0e)
-
-👋 Hi, I’m <b style="font-weight: 700">MAROUANE BOUFAROUJ</b> also known as Grainme!
-- 🔭 I’m interested in many topics. In fact, I'm very interesred in everything related to Computers!
-- 🌱 I’m currently studying at ENSAKH
-- 👨‍💻 Trying to be a better Competitive Programmer!
-- 😄 Pronouns: he/Him
-- ✉️ Let's chat: boufaroujmarouan@gmail.com
-- 🌐 Dev Tools : Wsl, Nvim, Vscode, Sublime, Eclipse..
-- CodeWars : <a href="https://www.codewars.com/users/Py47">@Py47</a>
-
-<hr>
 <div align="center">
-Please feel free to clone my projects, raise issues and submit PRs if you think something could be better. <br>
-<i>Happy Coding!</i> 😊
+  <img height="300" src="https://i.pinimg.com/originals/e7/be/14/e7be1401e2080de3e8b79c12bfc34e9c.gif" alt="Coding GIF" />
+</div>
+
+## 👩‍💻 whoami
+
+I'm Marouane Boufarouj, also known as grainme!
+
+- 🔭 I'm working as a "student"
+- 📚 I'm currently learning Rust
+- ⚡ In my free time, I do Competitive Programming (CP)
+
+## 🛠️ Technologies & Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" title="Rust" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" title="Flask" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim" title="Neovim" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" title="Supabase" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow" title="Stack Overflow" />
+</div>

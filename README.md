@@ -7,7 +7,7 @@
 I'm Marouane Boufarouj, also known as grainme!
 
 - 🔭 I'm working as a "student"
-- 📚 I'm currently learning Rust
+- 📚 I'm currently learning C++ (sometimes RUST!!)
 - ⚡ In my free time, I do Competitive Programming (CP)
 
 ## 🛠️ Technologies & Tools
